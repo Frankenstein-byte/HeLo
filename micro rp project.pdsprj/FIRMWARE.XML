@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FIRMWARE FAMILY="8051" COMPILER="ASEM-51 (Proteus)" TYPE="AT89C52">
+ <PROJECTS>
+  <STRING>AT89C52</STRING>
+ </PROJECTS>
+</FIRMWARE>
