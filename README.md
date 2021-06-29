@@ -16,6 +16,9 @@ It has SPI pins MOSI, MISO and SCK which will be used to upload the hex file to 
 <img src=https://github.com/Frankenstein-byte/HeLo/blob/main/Pictures/4.jpg width="600" height="400">
 <img src=https://github.com/Frankenstein-byte/HeLo/blob/main/Pictures/3.jpg width="600" height="400">
 
+## WebServer
+
+
 ## 89S52 Programmer Using Arduino Uno
 Refer the below mentioned link to upload code using arduino as ISP Programmer.This will be helpful for those who are willing to
 start with the 89S52 uC and don't want to invest on an additional programmer for the 89S52 uC.
