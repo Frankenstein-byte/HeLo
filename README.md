@@ -8,7 +8,7 @@ We also have a **IP based monitoring Web Portal** to constantly check the vitals
 We are using AT89S52 because its slightly different from the AT89C51 uC as it has ISP(In System Programming) feature.
 It has SPI pins MOSI, MISO and SCK which will be used to upload the hex file to the uC.
 
-![Screenshot](https://github.com/Frankenstein-byte/HeLo/blob/main/Pictures/ca0885a8-cbce-4917-8772-0ab84e44110f.jpg 250*250)
+![Screenshot](https://github.com/Frankenstein-byte/HeLo/blob/main/Pictures/ca0885a8-cbce-4917-8772-0ab84e44110f.jpg 250x250)
 
 
 
