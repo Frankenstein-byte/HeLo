@@ -17,6 +17,9 @@ It has SPI pins MOSI, MISO and SCK which will be used to upload the hex file to 
 <img src=https://github.com/Frankenstein-byte/HeLo/blob/main/Pictures/3.jpg width="600" height="400">
 
 ## WebServer
+Access your ESP8266 Web Server hosted over internet from anywhere by setting up the below mentioned instructions.
+<https://microcontrollerslab.com/accessing-esp32-web-server-anywhere-world-esp8266/>
+
 <img src=https://github.com/Frankenstein-byte/HeLo/blob/main/Pictures/6.jpeg width="600" height="400">
 
 ## 89S52 Programmer Using Arduino Uno
